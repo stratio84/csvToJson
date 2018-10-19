@@ -1,6 +1,6 @@
 # csvToJson
 Convert csv file to JSON.
-Make use of the csvtojson module (https://www.npmjs.com/package/csvtojson)
+Make use of the csvtojson module: (https://www.npmjs.com/package/csvtojson)
 
 ## INSTRUCTION:
 ```
