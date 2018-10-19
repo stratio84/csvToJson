@@ -5,6 +5,8 @@ const csv = require('csvtojson')
 // This is the master: second commit
 // This is the change in my new-cr branch
 
+// New commit on the master branch after tagging v1.0.0
+
 const converter = () => {
 	const csvFilePath  = path.join(__dirname, process.argv[2])
 
