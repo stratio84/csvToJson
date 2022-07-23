@@ -11,4 +11,4 @@ Make use of the csvtojson module: (https://www.npmjs.com/package/csvtojson)
 5.$ node csvtojson.js fileName.csv
 ```
 
-Rev. 2022
+Rev. 2022a
