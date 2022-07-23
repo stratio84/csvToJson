@@ -10,3 +10,5 @@ Make use of the csvtojson module: (https://www.npmjs.com/package/csvtojson)
 4.$ npm install
 5.$ node csvtojson.js fileName.csv
 ```
+
+Rev. 2022
